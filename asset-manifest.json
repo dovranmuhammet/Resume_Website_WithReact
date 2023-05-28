@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/resume-website-with-react/static/css/main.7d9a2f04.css",
+    "main.js": "/resume-website-with-react/static/js/main.5ef54fcd.js",
+    "static/media/realestate.jpeg": "/resume-website-with-react/static/media/realestate.44fd19f4c6872731149c.jpeg",
+    "static/media/workImg.jpeg": "/resume-website-with-react/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/dvrn.JPG": "/resume-website-with-react/static/media/dvrn.92328a3874c298b0a597.JPG",
+    "static/media/react.png": "/resume-website-with-react/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/resume-website-with-react/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/resume-website-with-react/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/resume-website-with-react/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/resume-website-with-react/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/resume-website-with-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/resume-website-with-react/index.html",
+    "main.7d9a2f04.css.map": "/resume-website-with-react/static/css/main.7d9a2f04.css.map",
+    "main.5ef54fcd.js.map": "/resume-website-with-react/static/js/main.5ef54fcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d9a2f04.css",
+    "static/js/main.5ef54fcd.js"
+  ]
+}
